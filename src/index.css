@@ -1,0 +1,8 @@
+li>div:hover{
+      cursor: pointer;
+      text-decoration:underline;
+      
+}
+body{
+      background-color: aliceblue;
+}
