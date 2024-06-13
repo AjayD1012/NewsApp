@@ -41,12 +41,12 @@
 
    
 
-  "predeploy": "npm run build",
+  "predeploy": "npm run ",
  
 
    
 
-  "deploy": "gh-pages -d build"
+  "deploy": "gh-pages -d dist"
  
 
   },
